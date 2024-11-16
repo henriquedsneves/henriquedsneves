@@ -6,7 +6,7 @@
 
 ![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquedsneves&show_icons=true&theme=radical)
 
-![Top Langs](![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquedsneves&langs_count=8))
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquedsneves&langs_count=8)
 
 ## Tecnologias que eu uso
 <div style= "display: inline_block" ><br/>
