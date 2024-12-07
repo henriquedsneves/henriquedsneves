@@ -7,7 +7,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquedsneves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquedsneves&layout=compact&langs_count=16&theme=dracula"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquedsneves&langs_count=8)
+
 
 ## Tecnologias que eu uso
 <div style= "display: inline_block" ><br/>
